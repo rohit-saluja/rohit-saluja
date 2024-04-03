@@ -15,6 +15,7 @@ Below are my skills set:
 
 <details open="true">
   <summary>My Recent Contributions</summary>
+  
   - [feat: delete document from super admin and send email](https://github.com/documenso/documenso/pull/1023) on [documenso/documenso](https://github.com/documenso/documenso)
   - [fix: show close icon on notification in mobile](https://github.com/documenso/documenso/pull/996) on [documenso/documenso](https://github.com/documenso/documenso)
   - [fix: updated the eslint staged files auto fix time delay](https://github.com/documenso/documenso/pull/1008) on [documenso/documenso](https://github.com/documenso/documenso)
